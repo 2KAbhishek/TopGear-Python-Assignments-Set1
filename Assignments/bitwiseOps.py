@@ -1,0 +1,8 @@
+a = int(input('Enter first no: '))
+b = int(input('Enter second no: '))
+print(f'{a} OR {b} : {a|b}')
+print(f'{a} AND {b} : {a&b}')
+print(f'{a} XOR {b} : {a^b}')
+print(f'Negation {a}: {~a} , Negation {b} : {~b}')
+print(f'Right Shift: {a}>>2 {a>>2} {b}>>3 : {b>>3}')
+print(f'Left Shift: {a}<<2 {a<<2} {b}<<3 : {b<<3}')

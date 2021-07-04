@@ -1,24 +1,24 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/Python-Assignments-Set1">Python-Assignments-Set1</a></h1>
+<h1><a href="https://2kabhishek.github.io/TopGear-Python-Assignments-Set1">TopGear-Python-Assignments-Set1</a></h1>
 
-<a href="https://github.com/2KAbhishek/Python-Assignments-Set1/blob/master/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/Python-Assignments-Set1?style=plastic&color=white&label=License"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1/blob/master/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/TopGear-Python-Assignments-Set1?style=plastic&color=white&label=License"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Assignments-Set1/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/Python-Assignments-Set1?style=plastic&color=e30724&label=Updated"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1/pulse">
+<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/TopGear-Python-Assignments-Set1?style=plastic&color=e30724&label=Updated"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Assignments-Set1/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/Python-Assignments-Set1?style=plastic&color=00d451&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/TopGear-Python-Assignments-Set1?style=plastic&color=00d451&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/Python-Assignments-Set1/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/Python-Assignments-Set1?style=plastic&color=1688f0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/TopGear-Python-Assignments-Set1?style=plastic&color=1688f0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Assignments-Set1/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/Python-Assignments-Set1?style=plastic&color=ff5500&label=Watchers"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1/watchers">
+<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/TopGear-Python-Assignments-Set1?style=plastic&color=ff5500&label=Watchers"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Assignments-Set1/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/Python-Assignments-Set1?style=plastic&color=f0f&label=Contributors"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1/graphs/contributors">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/TopGear-Python-Assignments-Set1?style=plastic&color=f0f&label=Contributors"> </a>
 
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
@@ -26,20 +26,20 @@
 <h2>Short sweet headline with 🎇🎉</h2>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/Python-Assignments-Set1/master/images/screenshot.jpg" alt="Python-Assignments-Set1 Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-Python-Assignments-Set1/master/images/screenshot.jpg" alt="TopGear-Python-Assignments-Set1 Demo" style="width:100%">
   <br/>
-  <figcaption>Python-Assignments-Set1 Screenshot</figcaption>
+  <figcaption>TopGear-Python-Assignments-Set1 Screenshot</figcaption>
 </figure>
 
 </div>
 
 ## Inspiration
 
-Bareminimum was inspired by `<reason/idea>`.
+TopGear-Python-Assignments-Set1 was inspired by `<reason/idea>`.
 
 ## What it does
 
-Python-Assignments-Set1 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+TopGear-Python-Assignments-Set1 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
@@ -47,17 +47,17 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
-## Installing Python-Assignments-Set1
+## Installing TopGear-Python-Assignments-Set1
 
-To install Python-Assignments-Set1, follow these steps:
+To install TopGear-Python-Assignments-Set1, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/Python-Assignments-Set1
-cd Python-Assignments-Set1
+git clone https://github.com/2kabhishek/TopGear-Python-Assignments-Set1
+cd TopGear-Python-Assignments-Set1
 <install_command>
 ```
 
-## Using Python-Assignments-Set1
+## Using TopGear-Python-Assignments-Set1
 
 ```bash
 USAGE:
@@ -77,15 +77,15 @@ Example:
 
 ## How it was built
 
-Python-Assignments-Set1 was built using `<tech/library>`
+TopGear-Python-Assignments-Set1 was built using `<tech/library>`
 
 ## Challenges faced
 
-While building Python-Assignments-Set1 the main challenges were `<issue/difficulty>`
+While building TopGear-Python-Assignments-Set1 the main challenges were `<issue/difficulty>`
 
 ## What I learned
 
-While building Python-Assignments-Set1 I `<learned/accomplished>` about `<learning/accomplishment>`
+While building TopGear-Python-Assignments-Set1 I `<learned/accomplished>` about `<learning/accomplishment>`
 
 ## What's next
 
@@ -103,7 +103,7 @@ Hit the :star: button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/Python-Assignments-Set1">Source</a> |
-<a href="https://2kabhishek.github.io/Python-Assignments-Set1">Website</a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1">Source</a> |
+<a href="https://2kabhishek.github.io/TopGear-Python-Assignments-Set1">Website</a>
 
 </div>

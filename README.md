@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
 
 <h1><a href="https://2kabhishek.github.io/TopGear-Python-Assignments-Set1">TopGear-Python-Assignments-Set1</a></h1>
 
@@ -23,79 +23,43 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for Python Assignments Set 1 🐍📚</h2>
 
 </div>
-
-## Inspiration
-
-TopGear-Python-Assignments-Set1 was inspired by `<reason/idea>`.
-
-## What it does
-
-TopGear-Python-Assignments-Set1 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed latest version of `python`
 
-## Installing TopGear-Python-Assignments-Set1
+## Get TopGear-Python-Assignments-Set1
 
-To install TopGear-Python-Assignments-Set1, follow these steps:
+To clone TopGear-Python-Assignments-Set1, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/TopGear-Python-Assignments-Set1
 cd TopGear-Python-Assignments-Set1
-<install_command>
 ```
 
 ## Using TopGear-Python-Assignments-Set1
 
+Use this for your reference, all code is placed under `Assignments` directory, once you have any `modern web browser` installed you can edit and run these locally.
+
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+cd Assignments/
+edit file.py # Edit
+python file.py # Run
 ```
 
-## How it was built
-
-TopGear-Python-Assignments-Set1 was built using `<tech/library>`
-
-## Challenges faced
-
-While building TopGear-Python-Assignments-Set1 the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building TopGear-Python-Assignments-Set1 I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
 <div align="center">
+
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
 
 <a href="https://github.com/2KAbhishek/TopGear-Python-Assignments-Set1">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Python-Assignments-Set1">Website</a>
